@@ -1,0 +1,1 @@
+Developed a deep learning model for ECG heartbeat classification to accurately identify different types of heartbeats. Employed convolutional neural networks (CNNs) to extract features from ECG signals and classify them into normal or abnormal categories.
